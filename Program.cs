@@ -10,7 +10,7 @@
             foreach (WeekDays day in Enum.GetValues(typeof(WeekDays)))
             {
                 Console.WriteLine(day);
-            }
+            }//.
             #endregion
 
 
